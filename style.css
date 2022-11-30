@@ -19,6 +19,7 @@ body {
     align-items: center;
     height: 100vh;
     flex-direction: column;
+    margin: 5%;
     background-color: var(--couleur-sombre);
     transition: 0.5s;
 }
